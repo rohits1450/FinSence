@@ -2,7 +2,7 @@
 
 An Emotionally-Aware Web3 Financial Companion
 
-🎥 Demo Video: Watch here
+🎥 Demo Video: https://youtu.be/u3XUyCAO1TE
 
 📌 Project Proposition
 
