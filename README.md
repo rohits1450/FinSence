@@ -4,7 +4,7 @@
 An Emotionally-Aware Web3 Financial Companion
 
 🎥 Demo Video: https://youtu.be/u3XUyCAO1TE
-
+-----------------------------------------------------------------------------------------------------------------------------
 📌 Project Proposition : 
 
 FinSence AI goes beyond numbers. It’s a Web3-powered financial companion that blends personal finance, psychology, and culture into one platform.
