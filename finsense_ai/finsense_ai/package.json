@@ -2,7 +2,7 @@
   "name": "finsense-ai",
   "version": "0.1.0",
   "private": true,
-  "rocketCritical": {
+  "newCritical": {
     "dependencies": [
       "@dhiwise/component-tagger",
       "react",
