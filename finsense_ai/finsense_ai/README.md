@@ -1,4 +1,5 @@
-🌐 FinSence
+<img width="144" height="128" alt="image" src="https://github.com/user-attachments/assets/7316ee5d-7a4a-444c-b4f3-9205acc2b4aa" />
+ FinSence
 
 An Emotionally-Aware Web3 Financial Companion
 
