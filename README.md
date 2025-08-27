@@ -12,6 +12,7 @@ FinSence AI goes beyond numbers. It’s a Web3-powered financial companion that 
 Built on the Internet Computer (ICP), it leverages canisters for decentralized, secure storage and integrates AI to analyze emotional triggers, track expenses, and deliver culturally contextual insights.
 
 👉 The goal? To help people spend smarter, reduce financial stress, and make mindful money decisions — with privacy and transparency at the core.
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 ❗ Problem We’re Solving : 
@@ -25,8 +26,8 @@ Most personal finance tools today fall short because they:
  Lack personalized therapy-like guidance for emotion-based spending
 
  Fail to support underbanked communities with diverse languages and cultural needs
+ 
 -----------------------------------------------------------------------------------------------------------------------------
-
 🌟 Vision :
 
 We believe finance should not just be about numbers, but also about mental well-being and empowerment.
@@ -38,6 +39,7 @@ Imagine:
   Users own their financial data sovereignty through ICP, without centralized control
 
   AI offers real-time emotional insights into spending habits and long-term goals
+  
 -----------------------------------------------------------------------------------------------------------------------------
 
 💡 Our Solution : 
@@ -53,6 +55,7 @@ Imagine:
   Delivering multilingual, culturally-aware financial coaching
 
   Providing live portfolio tracking + smart savings nudges
+  
 -----------------------------------------------------------------------------------------------------------------------------
 
 🚀 Why This Matters :
@@ -64,6 +67,7 @@ Imagine:
  ICP ensures user-owned data, not controlled by corporations
 
  FinSence AI redefines financial wellness by merging AI, finance, and psychology
+ 
 -----------------------------------------------------------------------------------------------------------------------------
 
 🔑 Core Features :
@@ -79,6 +83,7 @@ Imagine:
  Portfolio & Net Worth Tracking → Real-time updates on ICP blockchain
 
  Voice-Enabled Assistant → Natural-language queries for finance + wellness
+ 
 -----------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Tech Stack :
@@ -94,6 +99,7 @@ Identity: Internet Identity (Web3-native authentication)
 Visualization: Recharts + analytics dashboards
 
 Integrations: Voice, multilingual NLP, ICP features
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 🌍 Potential Impact :
@@ -103,5 +109,6 @@ Integrations: Voice, multilingual NLP, ICP features
  Multilingual Support: Accessibility for diverse cultural + language groups
 
  Holistic Wellness: Promote financial + mental well-being together
+
 -----------------------------------------------------------------------------------------------------------------------------
 UNDER PROGRESS
