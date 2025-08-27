@@ -51,7 +51,7 @@ Imagine:
 
   Providing live portfolio tracking + smart savings nudges
 
-🚀 Why This Matters
+🚀 Why This Matters :
 
  Emotional spending drives up to 40% of global purchases
 
@@ -61,7 +61,7 @@ Imagine:
 
  FinSence AI redefines financial wellness by merging AI, finance, and psychology
 
-🔑 Core Features
+🔑 Core Features :
 
 🛡 ICP Canister Backend → Decentralized, private, tamper-proof storage
 
@@ -75,7 +75,7 @@ Imagine:
 
  Voice-Enabled Assistant → Natural-language queries for finance + wellness
 
-🛠️ Tech Stack
+🛠️ Tech Stack :
 
 Frontend: React, Tailwind, Recharts
 
@@ -89,7 +89,7 @@ Visualization: Recharts + analytics dashboards
 
 Integrations: Voice, multilingual NLP, ICP features
 
-🌍 Potential Impact
+🌍 Potential Impact :
 
  Target Users: Students, young professionals, underbanked communities
 
