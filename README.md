@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/7316ee5d-7a4a-444c-b4f3-9205acc2b4aa" width="22" height="22" /> FinSence  
 -----------------------------------------------------------------------------------------------------------------------------
 
-An Emotionally-Aware Web3 Financial Companion
+An Emotionally-Aware Web3 Financial Companion.
 
 🎥 Demo Video: https://youtu.be/u3XUyCAO1TE
 
