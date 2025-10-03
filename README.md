@@ -3,10 +3,8 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 An Emotionally-Aware Web3 Financial Companion.
-
- Demo Video: https://youtu.be/3WlhZCtruDM
  
- Live Project: https://finsence.netlify.app
+ Live Project: https://finsence.netlify.app/
 
 
 -----------------------------------------------------------------------------------------------------------------------------
