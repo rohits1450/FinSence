@@ -10,7 +10,7 @@ An Emotionally-Aware Web3 Financial Companion.
 -----------------------------------------------------------------------------------------------------------------------------
 📌 Project Proposition : 
 
-FinSence AI goes beyond numbers. It’s a Web3-powered financial companion that blends personal finance, psychology, and culture into one platform.
+FinSence goes beyond numbers. It’s a Web3-powered financial companion that blends personal finance, psychology, and culture into one platform.
 
 Built on the Internet Computer (ICP), it leverages canisters for decentralized, secure storage and integrates AI to analyze emotional triggers, track expenses, and deliver culturally contextual insights.
 
