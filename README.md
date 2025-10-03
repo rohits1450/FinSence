@@ -108,4 +108,5 @@ Integrations: Voice, multilingual NLP, ICP features
  Holistic Wellness: Promote financial + mental well-being together
 
 -----------------------------------------------------------------------------------------------------------------------------
+
 UNDER PROGRESS
