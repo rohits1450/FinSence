@@ -4,7 +4,7 @@
 
 An Emotionally-Aware Web3 Financial Companion.
  
- Live Project: https://finsence.netlify.app/
+ Live Project: https://finsence.netlify.app/ (Under Progress)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
