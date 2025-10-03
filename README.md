@@ -2,12 +2,6 @@
 <img src="https://github.com/user-attachments/assets/7316ee5d-7a4a-444c-b4f3-9205acc2b4aa" width="22" height="22" /> FinSence  
 -----------------------------------------------------------------------------------------------------------------------------
 
-An Emotionally-Aware Web3 Financial Companion.
- 
- Live Project: https://finsence.netlify.app/ (Under Progress)
-
-
------------------------------------------------------------------------------------------------------------------------------
 📌 Project Proposition : 
 
 FinSence goes beyond numbers. It’s a Web3-powered financial companion that blends personal finance, psychology, and culture into one platform.
