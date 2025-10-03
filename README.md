@@ -4,7 +4,7 @@
 
 An Emotionally-Aware Web3 Financial Companion.
 
- Demo Video: https://youtu.be/u3XUyCAO1TE
+ Demo Video: https://youtu.be/3WlhZCtruDM
  
  Live Project: https://finsence.netlify.app
 
